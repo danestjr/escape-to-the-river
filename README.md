@@ -1,11 +1,11 @@
 Arcade Game Project
 ===================
 
-Author: Daniel Estrada - daniel@dcge.co
+Author: Daniel Estrada at [daniel@dcge.co](daniel@dcge.co)
 
 Demo
 ===================
-http://dev.daestrada.com/arcade-game/app
+[http://dev.daestrada.com/arcade-game/app](http://dev.daestrada.com/arcade-game/app)
 
 Summary
 ==================
@@ -21,9 +21,6 @@ Javascript
 
 Running the Game
 ===============================
-
-To play the game, you would need to first click on index.html.
-
-To win the game, you would need to navigate yourself across the path to the water without hitting the bugs.
-
-If you hit the bugs, your character will start from the beginning.
+1. To play the game, you would need to first click on index.html.
+2. To win the game, you would need to navigate yourself across the path to the water without hitting the bugs.
+3. If you hit the bugs, your character will start from the beginning.
