@@ -1,26 +1,29 @@
-Arcade Game Project
-===================
+# Escape to the River Game
 
-Author: Daniel Estrada at [daniel@dcge.co](daniel@dcge.co)
+A javascript app built using a gaming engine. The goal is for the user to be able to navigate across the path of the ladybugs to reach the river. Once the wins they will recieve a message. If they lose, the game will automatically restart.
 
-Demo
-===================
-[http://dev.daestrada.com/arcade-game/app](http://dev.daestrada.com/arcade-game/app)
+## Demo
+* [Link](http://daestrada.com/escape-to-the-river)
 
-Summary
-==================
-This was a project that was completed as part of the Udacity Frontend Dev Nanodegree.
-The goal was to create a game using object-oriented javascript. The user needs to 
-cross the path of the evil bugs to reach the water. Once the user has reached the
-water, the game restarts. If the user is not able to reach the water and is stopped by 
-the evil bugs, the game restarts.
+## Installing
 
-Languages
-==================
-Javascript
+Below is what you will need to run the development version of the app:
 
-Running the Game
-===============================
-1. To play the game, you would need to first click on index.html.
-2. To win the game, you would need to navigate yourself across the path to the water without hitting the bugs.
-3. If you hit the bugs, your character will start from the beginning.
+* Clone this repo
+* Open on index.html.
+
+## Built With
+
+* Javascript
+* Gaming Engine
+
+## Authors
+
+* **Daniel Estrada** - *Initial work* - [@jrda2](https://github.com/jrda2)
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
+
+
