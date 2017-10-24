@@ -3,7 +3,7 @@
 A javascript app built using a gaming engine. The goal is for the user to be able to navigate across the path of the ladybugs to reach the river. Once the wins they will recieve a message. If they lose, the game will automatically restart.
 
 ## Demo
-* [Link](http://daestrada.com/escape-to-the-river/app)
+* [Link](http://river-game.dcge.co)
 
 ## Installing
 
