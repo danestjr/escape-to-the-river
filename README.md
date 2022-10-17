@@ -3,7 +3,7 @@
 A javascript app built using a gaming engine. The goal is for the user to be able to navigate across the path of the ladybugs to reach the river. Once the wins they will recieve a message. If they lose, the game will automatically restart.
 
 ## Demo
-* [Link: luminous-twilight-27be04.netlify.app](http://luminous-twilight-27be04.netlify.app): 
+* [Link: luminous-twilight-27be04.netlify.app](http://luminous-twilight-27be04.netlify.app)
 
 ## Installing
 
