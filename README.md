@@ -3,7 +3,7 @@
 A javascript app built using a gaming engine. The goal is for the user to be able to navigate across the path of the ladybugs to reach the river. Once the wins they will recieve a message. If they lose, the game will automatically restart.
 
 ## Demo
-* [Link](http://river-game.dcge.co)
+* [Link: luminous-twilight-27be04.netlify.app](http://luminous-twilight-27be04.netlify.app): 
 
 ## Installing
 
@@ -19,7 +19,7 @@ Below is what you will need to run the development version of the app:
 
 ## Authors
 
-* **Daniel Estrada** - *Initial work* - [@jrda2](https://github.com/jrda2)
+* **Daniel Estrada** - [@estradacodes](https://github.com/estradacodes)
 
 ## License
 
